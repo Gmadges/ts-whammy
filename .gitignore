@@ -1,8 +1,8 @@
 .DS_Store
 node_modules
 /dist
-/libs
-/@types
+# /libs
+# /@types
 /coverage
 
 # local env files
